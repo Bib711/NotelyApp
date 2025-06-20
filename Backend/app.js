@@ -6,7 +6,7 @@ const port = 3000;
 app.use(corus());
 app.use(express.json());
 //app.put update ,app.remove delete
-mongoose.connect('mongodb+srv://bibinmaleparambil111:Bibin2005@project1.2pltaxh.mongodb.net/')
+mongoose.connect('mongodb+srv://<hehhehhehhe>@project1.2pltaxh.mongodb.net/')
 .then(() => console.log('✅ Connected to MongoDB'))
 .catch((err) => console.error('❌ MongoDB connection error:', err));
  app.get('/', async (req, res) => {
@@ -32,7 +32,7 @@ app.use(cors());
 app.use(express.json());
 //app.put update ,app.remove delete
 
-mongoose.connect('mongodb+srv://bibinmaleparambil111:Bibin2005@project1.2pltaxh.mongodb.net/')
+mongoose.connect('mongodb+srv://<hehehehhehe>@project1.2pltaxh.mongodb.net/')
 .then(() => console.log('✅ Connected to MongoDB'))
 .catch((err) => console.error('❌ MongoDB connection error:', err));
 
