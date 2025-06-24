@@ -1,7 +1,7 @@
 # 📝 NotelyApp
 
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=OENhm99NTnV6&format=png&color=6366f1" alt="NotelyApp Logo" width="100" height="120"/>
+  <img src="https://img.icons8.com/?size=100&id=OENhm99NTnV6&format=png&color=6366f1" alt="NotelyApp Logo" width="200" height="200"/>
   
   <h3>A powerful, modern note-taking application built with React, Express, and MongoDB</h3>
   
@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome">
   </div>
 </div>
----
+
+[Features](#-features) • [Tech Stack](#️-tech-stack) • [Installation](#-installation) • [Deployment](#-deployment) • [API Documentation](#-api-documentation) • [Roadmap](#️-roadmap) • [License](#-license)
 
 ## ✨ Features
 
