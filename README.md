@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome">
   </div>
-</div>
-
 ---
 
 ## ✨ Features
