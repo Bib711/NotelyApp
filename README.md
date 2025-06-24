@@ -17,7 +17,6 @@
 
 <div align="center">
 
-[Features](#features) • [Tech Stack](#tech-stack) • [Installation](#installation) • [Deployment](#deployment) • [API Documentation](#api-documentation) • [Roadmap](#roadmap) • [License](#license)
 
 </div>
 
