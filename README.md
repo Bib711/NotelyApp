@@ -2,7 +2,7 @@
 
 <div align="center">
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=OENhm99NTnV6&format=png&color=000000" alt="NotelyApp Logo" width="200" height="200"/>
+  <img src="https://img.icons8.com/?size=100&id=OENhm99NTnV6&format=png&color=6366f1" alt="NotelyApp Logo" width="200" height="200"/>
   
   <h3>A powerful, modern note-taking application built with React, Express, and MongoDB</h3>
   
