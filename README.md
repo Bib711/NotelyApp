@@ -2,15 +2,7 @@
 
 <div align="center">
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" id="book" viewBox="0 0 28 28" width="200" height="200">
-    <linearGradient id="rect3500_10_" x1="883.694" x2="876.443" y1="-454.005" y2="-446.297" gradientTransform="matrix(3.0757 0 0 -3.0757 -2693.22 -1370.944)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#6366f1"></stop>
-      <stop offset="1" stop-color="#8b5cf6"></stop>
-    </linearGradient>
-    <path id="rect3500_11_" fill="url(#rect3500_10_)" d="M5.917 0h16.165A5.917 5.917 0 0 1 28 5.917v16.165A5.917 5.917 0 0 1 22.083 28H5.917A5.917 5.917 0 0 1 0 22.083V5.917A5.917 5.917 0 0 1 5.917 0z"></path>
-    <path fill="#fff" d="M19.5 19h-11V7h11v12zm-10-1h9V8h-9v10z"></path>
-    <path fill="#fff" d="M19.5 21h-11v-3h11v1h-10v1h10zM17.5 12h-7V9h7v3zm-6-1h5v-1h-5v1z"></path>
-  </svg>
+  <img src="https://img.icons8.com/?size=100&id=OENhm99NTnV6&format=png&color=000000" alt="NotelyApp Logo" width="200" height="200"/>
   
   <h3>A powerful, modern note-taking application built with React, Express, and MongoDB</h3>
   
